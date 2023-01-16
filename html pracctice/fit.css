@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	max-width: 900px;
+	margin: 0 auto;
+	height: 650px;
+	margin-top: 15px;
+	background-image: url(https://images.unsplash.com/photo-1667977602009-ddd5e7b7c2c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwfFM0TUtMQXNCQjc0fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+	border-radius: 15;
+	border-radius: 15px;
+}
+
+.Nav{
+	color: brown;
+	font-size: 22px;
+	margin-top: 15px;
+
+}
+
+.signup {
+	float: right;
+	background: blue;
+	border-radius: 10px;
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	margin: 30px;
+}
+
+p{
+	margin-top: 200px;
+	color: gold;
+	font-size: 50px;
+	position: absolute;
+	left: 40%;
+}
+
+.slogan{
+	margin-top: 250px;
+	font-size: 20px;
+	position: absolute;
+	left: 50%;
+}
+
+button{
+	background: blue;
+	height: 30px;
+	width: 60px;
+	border-radius: 10px;
+	}
+
+ul{
+	margin-top: 290px;
+	color: gold;
+	position: absolute;
+	left: 50%;
+}
+.footer{
+	margin-top: 500px;
+	float: right; 
+
+}
+.copyright{
+	margin-top: 500px;
+	font-size: 30px;
+	color: blue;
+}

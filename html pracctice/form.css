@@ -1,0 +1,35 @@
+<input {
+	background-color: orange;
+	 width: 200px;
+	  height: 30px; 
+	  border-radius:10px 10px 10px 10px; 
+}
+h1 {
+	color: orange;
+	 font-size: 50px;
+	  text-align: center;
+}
+label {
+	color: black;
+}
+body {
+	background-color: purple;
+	 margin: 20px 20px 20px 20px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Open+Sans&family=Roboto:ital,wght@1,900&display=swap');
+
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	 background-color: black;
+}
+
+#finput{
+	
+	width: 100px;
+	 height: 30px; 
+	 color: black; 
+	 background: green;
+}

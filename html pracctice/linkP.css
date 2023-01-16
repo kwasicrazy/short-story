@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: green;
+}
+
+.reg {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+
+
+}
+
+.part1 {
+font-size: 30px; 
+color: purple;
+font: bolder;
+}
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Open+Sans&family=Roboto:ital,wght@1,900&display=swap');
+
+
+
+.main { font-family: 'Roboto', sans-serif;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 5px;
+	color: brown;}
+
+	
+h2 {
+	text-align: center;
+	font-size: 60px;
+	color: purple;
+	line-height: 2px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 50px;
+	color:brown;
+	margin-bottom: 4px;
+	margin-top: 2px;
+}
+
+
+.list1 {
+
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+
+.list2 {
+display: flex;
+justify-content: space-between;
+}
+
+.acts {
+	display: flex;
+	justify-content: center;
+	/*margin-top: none;*/
+}
+
+.item {
+	color: brown;
+	font-size: 40px;
+}
+
+#f-input{
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+	background: red;
+	font-weight: bolder;
+}

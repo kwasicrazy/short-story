@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 900px;
+	margin: 0 auto;
+	background: teal;
+}
+
+nav{
+	height: 50px;
+	background: grey;
+	padding-top: 5px;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+input{
+	float: right;
+	height: 30px;
+	background: brown;
+	border: double;
+
+}
+
+h1,h3{
+	text-align: center;
+}
+
+th,td{
+	height: 50px;
+	width: 150px;
+	background: blue;
+	padding-left: 10px;
+}
+.neg{
+	background-color: red;
+}
+
